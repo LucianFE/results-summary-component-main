@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub URL](https://github.com/LucianFE/results-summary-component)
-- Live Site URL: [Github live](https://lucianfe.github.io/results-summary-component/)
+- Solution URL: [GitHub URL](https://github.com/LucianFE/results-summary-component-main)
+- Live Site URL: [Github live](https://lucianfe.github.io/results-summary-component-main/)
 
 ## My process
 

@@ -38,6 +38,15 @@ body {
   font-size: var(--fs-body);
   display: grid;
 }
+.sr-only {
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  left: -10000px;
+  white-space: nowrap;
+}
 
 .cards {
   display: grid;

@@ -30,7 +30,9 @@ function displayData() {
     .map((item) => {
       return `<div class="component ${item.category.toLowerCase()} flex">
         <div class="left flex">
-          <img src="${item.icon}" />
+          <img src="${
+            item.icon
+          }" alt="icon for ${item.category.toLowerCase()}"/>
           <p>${item.category}</p>
         </div>
         <div class="right">
